@@ -1,4 +1,4 @@
-#Prodigy InfoTech Data Science Internship Task 1:
+###Prodigy InfoTech Data Science Internship Task 1:
 ![image](https://github.com/AakashShaji/PRODIGY_DS_01-TASK_01.ipynb/assets/121721309/bc4aba12-0c34-424d-895c-f7a82fec796e)
 
 
