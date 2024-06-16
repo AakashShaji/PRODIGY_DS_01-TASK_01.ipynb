@@ -1,20 +1,20 @@
-#Prodigy InfoTech Data Science Internship Task 1:
+# Prodigy InfoTech Data Science Internship Task 1:
 ![image](https://github.com/AakashShaji/PRODIGY_DS_01-TASK_01.ipynb/assets/121721309/bc4aba12-0c34-424d-895c-f7a82fec796e)
 
 
 
 Welcome to my submission for Task 1 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on creating a visualization to represent the distribution of a categorical or continuous variable.
 
-##Dataset
+## Dataset
 The dataset used for this task is world_population_dataset. This dataset contains records of population from the year 2001 to 2022.
 
-##Tools and Libraries used
+## Tools and Libraries used
 Jupyter notebook
 Pandas
 Numpy
 Matplotlip & Seaborn for visualization
 
-##Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 During the EDA process, I performed the following steps:
 
 Data Cleaning: Checked for missing values, duplicates, and outliers in the dataset and handled them accordingly.
